@@ -1,13 +1,13 @@
 <div align="center">
 
 # ✨ IBRAHIM TABLAWY ✨
-**Full-Stack Developer | Resume Engine & Nodemailer Active**
+**Full-Stack Developer | Resume Engine & Formspree Integrated**
 
 <br />
 
 ---
 
-### 🚀 CLICK AN INTERFACE TO START
+### 🚀 SELECT AN INTERFACE TO CONNECT
 
 <br />
 
