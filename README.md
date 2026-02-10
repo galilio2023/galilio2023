@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF5F6D&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+SPACE;RESUME+ENGINE+ACTIVE;NODEMAILER+INTEGRATED" alt="Typing SVG" />
+# ✨ IBRAHIM TABLAWY ✨
+**Full-Stack Developer | Resume Engine & Nodemailer Active**
 
 <br />
 
-### ✨ SELECT YOUR EXPERIENCE ✨
+---
+
+### 🚀 CLICK AN INTERFACE TO START
 
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="https://img.shields.io/static/v1?label=MAIN%20PORTFOLIO&message=ENTER%20HERE%20→&color=ff5f6d&style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/MAIN_PORTFOLIO-ENTER_HERE_→-FF5F6D?style=for-the-badge" height="70" />
 </a>
 
 <br />
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio-opfju4oaw-ibrahims-projects-710559fc.vercel.app/">
-  <img src="https://img.shields.io/static/v1?label=EXPERIMENTAL%20DESIGN&message=VIEW%20INTERFACE%20→&color=8e2de2&style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/EXPERIMENTAL_DESIGN-VIEW_INTERFACE_→-8E2DE2?style=for-the-badge" height="70" />
 </a>
 
 <br />
@@ -24,15 +27,14 @@
 
 ---
 
-### 🛠️ DEVELOPER STACK
+### 🛠️ TECH STACK
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,js,html,css" />
+</p>
 
 <br />
-<br />
-
-<img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=2&section=footer" width="50%" />
 
 </div>
 
