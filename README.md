@@ -1,40 +1,40 @@
 <div align="center">
 
 # ✨ IBRAHIM TABLAWY ✨
-**Full-Stack Developer | Resume Engine & Formspree Integrated**
+**Full-Stack Engineer | Resume Engine & Formspree Integrated**
 
 <br />
 
 ---
 
-### 🚀 SELECT AN INTERFACE TO CONNECT
+### 🎨 CHOOSE YOUR PREFERRED VIBE
 
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/MAIN_PORTFOLIO-ENTER_HERE_→-FF5F6D?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/PROFESSIONAL_EDITION-ENTER_HERE-FF5F6D?style=for-the-badge&logo=react" height="70" />
 </a>
 
 <br />
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio-opfju4oaw-ibrahims-projects-710559fc.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPERIMENTAL_DESIGN-VIEW_INTERFACE_→-8E2DE2?style=for-the-badge" height="70" />
+  <img src="https://img.shields.io/badge/EXPERIMENTAL_VIBE-VIEW_INTERFACE-8E2DE2?style=for-the-badge&logo=tailwindcss" height="70" />
 </a>
 
 <br />
 <br />
 
+> **Note:** Both interfaces are powered by the same **Resume Engine** and **Formspree** backend.
+
 ---
 
-### 🛠️ TECH STACK
+### 🛠️ CORE TECH STACK
 <br />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,js,html,css" />
 </p>
-
-<br />
 
 </div>
 
