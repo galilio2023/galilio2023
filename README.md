@@ -1,33 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Connect%20with%20Ibrahim&fontSize=50&animation=fadeIn&fontAlignY=38" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF5F6D&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+SPACE;RESUME+ENGINE+ACTIVE;NODEMAILER+INTEGRATED" alt="Typing SVG" />
 
 <br />
 
-# ✨ 🚀 WELCOME 🚀 ✨
-*Click an interface to view my Resume and use the Nodemailer contact form*
+### ✨ SELECT YOUR EXPERIENCE ✨
 
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PRIMARY_PORTFOLIO-ENTER_HERE-ff9a00?style=for-the-badge&logo=vercel&logoColor=white" height="75">
+  <img src="https://img.shields.io/static/v1?label=MAIN%20PORTFOLIO&message=ENTER%20HERE%20→&color=ff5f6d&style=for-the-badge" height="70" />
 </a>
 
 <br />
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio-opfju4oaw-ibrahims-projects-710559fc.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPERIMENTAL_DESIGN-VIEW_INTERFACE-9d00ff?style=for-the-badge&logo=nextdotjs&logoColor=white" height="75">
+  <img src="https://img.shields.io/static/v1?label=EXPERIMENTAL%20DESIGN&message=VIEW%20INTERFACE%20→&color=8e2de2&style=for-the-badge" height="70" />
 </a>
 
 <br />
 <br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vercel" />
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=30&section=footer" />
+### 🛠️ DEVELOPER STACK
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,js,html,css" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=2&section=footer" width="50%" />
 
 </div>
 
