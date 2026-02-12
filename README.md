@@ -11,7 +11,7 @@
 
 <br />
 
-<a href="https://ibrahim-tablawy-portfolio.vercel.app/">
+<a href="https://ibrahim-tablawy-portfolio.vercel.app/" targer="_blank">
   <img src="https://img.shields.io/badge/PROFESSIONAL_EDITION-ENTER_HERE-FF5F6D?style=for-the-badge&logo=react" height="70" />
 </a>
 
