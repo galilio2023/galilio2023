@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="Gemini_Generated_Image_2zyvf02zyvf02zyv.png" width="220" alt="Ibrahim Eltablawy Branding" />
+<img src="hema.png" width="220" alt="Ibrahim Eltablawy Branding" />
 
 ---
 
@@ -44,8 +44,8 @@
 
 ### 📊 PROFESSIONAL FOCUS
 * **Current Work**: Architecting industrial-grade modular interfaces with React 19 and Tailwind v4.
-* [cite_start]**Specialization**: Applying pure mathematical models to UI state management and high-fidelity motion sequences[cite: 20, 70].
-* [cite_start]**Background**: 13 years of elite professional accountability and strategy in the Medical Sector [cite: 22-23, 71-73].
-* [cite_start]**Foundation**: B.Sc. in Pure Mathematics & Computer Science, Class of 2010.
+* **Specialization**: Applying pure mathematical models to UI state management and high-fidelity motion sequences.
+* **Background**: 13 years of elite professional accountability and strategy in the Medical Sector.
+* **Foundation**: B.Sc. in Pure Mathematics & Computer Science, Class of 2010.
 
 </div>
