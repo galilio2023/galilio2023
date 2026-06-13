@@ -34,7 +34,7 @@
 ---
 
 ### 🪐 FEATURED PROJECT: ORBIT
-**Mathematical Physics & Visual Engineering**
+**3D GitHub Solar System & Repository Visualizer**
 
 <br />
 
@@ -47,6 +47,8 @@
 > *Pro Tip: `Ctrl + Click` (or `Cmd + Click` on Mac) to launch Orbit in a new tab.*
 
 <br />
+
+> **System Architecture:** An interactive, mathematically-precise 3D solar system where **each planet represents a synchronized GitHub repository**. Features real-time GitHub integration, dynamic orbital motion, and a full-scale **Admin Dashboard** for comprehensive data management.
 
 ---
 
