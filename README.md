@@ -1,13 +1,12 @@
 <div align="center">
 
-
 # ✨ IBRAHIM ELTABLAWY ✨
 **Full-Stack Software Engineer | Mathematically-Precise Architectures**
 
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-<img src="hema.png" width="150" alt="Ibrahim Eltablawy - Grey Fox Branding" />
+  <img src="hema.png" width="150" alt="Ibrahim Eltablawy - Grey Fox Branding" />
 </a>
 
 <br/>
@@ -21,13 +20,27 @@
 <br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/ENTER_INTERFACE-FF5F6D?style=for-the-badge&logo=react&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/ENTER_INTERFACE-FF5F6D?style=for-the-badge&logo=react&logoColor=white" height="50" />
 </a>
 
 <br />
 <br />
 
 > **Engineering Note:** This interface features a custom **Resume Engine** utilizing **Tailwind v4** and **Formspree** for robust lead capture and state-driven resume generation.
+
+---
+
+### 🪐 FEATURED PROJECT: ORBIT
+**Mathematical Physics & Visual Engineering**
+
+<br />
+
+<a href="https://orbit-tablawy.vercel.app/">
+  <img src="https://img.shields.io/badge/LAUNCH_ORBIT-0F172A?style=for-the-badge&logo=three.js&logoColor=white" height="50" />
+</a>
+
+<br />
+<br />
 
 ---
 
