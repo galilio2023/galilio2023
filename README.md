@@ -24,6 +24,9 @@
 </a>
 
 <br />
+
+> *Pro Tip: `Ctrl + Click` (or `Cmd + Click` on Mac) to open the interface in a new tab.*
+
 <br />
 
 > **Engineering Note:** This interface features a custom **Resume Engine** utilizing **Tailwind v4** and **Formspree** for robust lead capture and state-driven resume generation.
@@ -40,6 +43,9 @@
 </a>
 
 <br />
+
+> *Pro Tip: `Ctrl + Click` (or `Cmd + Click` on Mac) to launch Orbit in a new tab.*
+
 <br />
 
 ---
