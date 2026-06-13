@@ -5,7 +5,7 @@
 
 <br />
 
-<a href="https://ibrahim-tablawy-portfolio.vercel.app/">
+<a href="https://ibrahim-tablawy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="hema.png" width="150" alt="Ibrahim Eltablawy - Grey Fox Branding" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <br />
 
-<a href="https://ibrahim-tablawy-portfolio.vercel.app/">
+<a href="https://ibrahim-tablawy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ENTER_INTERFACE-FF5F6D?style=for-the-badge&logo=react&logoColor=white" height="50" />
 </a>
 
@@ -35,7 +35,7 @@
 
 <br />
 
-<a href="https://orbit-tablawy.vercel.app/">
+<a href="https://orbit-tablawy.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LAUNCH_ORBIT-0F172A?style=for-the-badge&logo=three.js&logoColor=white" height="50" />
 </a>
 
