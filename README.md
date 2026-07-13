@@ -28,39 +28,7 @@
 
 </div>
 
----
 
-## 🔮 THE INTERACTIVE EXHIBITIONS
-
-### 🪐 [Orbit — Interactive 3D Solar Gravity Engine](https://orbit-tablawy.vercel.app/)
-> **A real-time Three.js stellar system governing live repository orbits through physical gravity calculations.**
-> 
-> * **The Motion:** Physically-simulated vectors and momentum-based camera tracking.
-> * **The Optics:** Custom-lit atmospheric dispersion and fluid planetary orbits.
->
-> 🌌 **[ENTER THE 3D UNIVERSE ➔](https://orbit-tablawy.vercel.app/)**
-
-<br/>
-
-### 🏺 [Scent Compounding — Luxury 3D Studio](https://github.com/galilio2023/perfume-tablawy)
-> **An ultra-premium fragrance compounding experience utilizing advanced physical material rendering.**
-> 
-> * **The Motion:** Real-time liquid shader balancing formulas that eliminate integer rounding drift.
-> * **The Optics:** Glassmorphic physical glass refractions and gold-lacquer clearcoat reflection passes.
->
-> 🧪 **[ENTER THE FRAGRANCE LAB ➔](https://github.com/galilio2023/perfume-tablawy)**
-
-<br/>
-
-### 🧱 [iKitchen — Spatial Generative CAD Board](https://github.com/galilio2023/ikitchen)
-> **A spatial design vector canvas seamlessly translating coordinate constraints into 3D using Google Gemini AI.**
-> 
-> * **The Motion:** Drag-and-drop vector mechanics mapped onto spatial coordinate matrices.
-> * **The Optics:** Minimalist architectural drafting aesthetic optimized for quick structural visualization.
->
-> 📐 **[ENTER THE GENERATIVE CAD ➔](https://github.com/galilio2023/ikitchen)**
-
----
 
 <div align="center">
 
