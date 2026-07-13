@@ -12,8 +12,8 @@
 <a href="https://orbit-tablawy.vercel.app/">
   <img src="https://img.shields.io/badge/ORBIT-16241F?style=for-the-badge&logo=three.js&logoColor=C9A227" height="42" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/EMAIL-2A4A42?style=for-the-badge&logo=gmail&logoColor=C9A227" height="42" />
+<a href="https://www.linkedin.com/in/ibrahim-eltablawy/">
+  <img src="https://img.shields.io/badge/LINKEDIN-2A4A42?style=for-the-badge&logo=linkedin&logoColor=C9A227" height="42" />
 </a>
 
 > [!TIP]
@@ -53,12 +53,12 @@ Real-time GitHub sync, physically-modeled orbital motion, and a full admin dashb
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1C3A33&title_color=C9A227&text_color=E8DCC4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=galilio2023&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galilio2023&layout=compact&hide_border=true&bg_color=1C3A33&title_color=C9A227&text_color=E8DCC4" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=galilio2023&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
