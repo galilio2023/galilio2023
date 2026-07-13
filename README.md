@@ -53,12 +53,8 @@ Real-time GitHub sync, physically-modeled orbital motion, and a full admin dashb
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=galilio2023&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galilio2023&layout=compact&hide_border=true&bg_color=1C3A33&title_color=C9A227&text_color=E8DCC4" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=galilio2023&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-stats-extended.vercel.app/api?username=galilio2023&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=galilio2023&layout=compact&hide_border=true&bg_color=1C3A33&title_color=C9A227&text_color=E8DCC4" width="49%" />
 
 </div>
 
