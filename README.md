@@ -1,78 +1,67 @@
 <div align="center">
 
-# ✨ IBRAHIM ELTABLAWY ✨
-**Full-Stack Software Engineer | Mathematically-Precise Architectures**
+<img src="hema.png" width="120" alt="Ibrahim Eltablawy" style="border-radius: 50%;" />
 
-<br />
+# Ibrahim Eltablawy
 
-<a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="hema.png" width="150" alt="Ibrahim Eltablawy - Grey Fox Branding" />
-</a>
+**Full-Stack Software Engineer — Precision-First Interfaces**
 
 <br/>
-<br/>
-
----
-
-### 🚀 PORTFOLIO & RESUME ENGINE
-**High-Performance Interface built with Vite & React 19**
-
-<br />
 
 <a href="https://ibrahim-tablawy-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/ENTER_INTERFACE-FF5F6D?style=for-the-badge&logo=react&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="42" />
 </a>
-
-<br />
-
-> *Pro Tip: `Ctrl + Click` (or `Cmd + Click` on Mac) to open the interface in a new tab.*
-
-<br />
-
-> **Engineering Note:** This interface features a custom **Resume Engine** utilizing **Tailwind v4** and **Formspree** for robust lead capture and state-driven resume generation.
-
----
-
-### 🪐 FEATURED PROJECT: ORBIT
-**3D GitHub Solar System & Repository Visualizer**
-
-<br />
-
 <a href="https://orbit-tablawy.vercel.app/">
-  <img src="https://img.shields.io/badge/LAUNCH_ORBIT-0F172A?style=for-the-badge&logo=three.js&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/ORBIT-1E293B?style=for-the-badge&logo=three.js&logoColor=38BDF8" height="42" />
 </a>
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
+</a>
+<!-- Swap YOUR_EMAIL_HERE for your real address, and add a LinkedIn badge here the same way once you have the URL -->
 
-<br />
-
-> *Pro Tip: `Ctrl + Click` (or `Cmd + Click` on Mac) to launch Orbit in a new tab.*
-
-<br />
-
-> **System Architecture:** An interactive, mathematically-precise 3D solar system where **each planet represents a synchronized GitHub repository**. Features real-time GitHub integration, dynamic orbital motion, and a full-scale **Admin Dashboard** for comprehensive data management.
-
----
-
-### 🧬 TECHNICAL & SCIENTIFIC STACK
-<br />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,nodejs,mongodb,tailwind,threejs,cpp,redux" />
-</p>
-
-<br />
-
-| **Scientific Logic** | **Modern Frontend** | **Visual Engineering** |
-| :--- | :--- | :--- |
-| Pure Mathematics | React 19 & Vite | GSAP (Motion Logic) |
-| Data Structures | Tailwind CSS v4 | Framer Motion |
-| Linear Algebra | Node.js & MongoDB | Three.js & SVG Animation |
-
----
-
-### 📊 PROFESSIONAL FOCUS
-- 🔭 **Current Work:** Architecting industrial-grade modular interfaces with React 19 and Tailwind v4.
-- 🌱 **Specialization:** Applying pure mathematical models to UI state management and high-fidelity motion.
-- 💼 **Background:** 13 years of elite professional accountability and strategy in the Medical Sector.
-- 🎓 **Foundation:** B.Sc. in Pure Mathematics & Computer Science, Class of 2010.
+> [!TIP]
+> `Ctrl`/`Cmd` + Click any button above to open it in a new tab.
 
 </div>
+
+<br/>
+
+B.Sc. in Pure Mathematics & Computer Science (2010), with 13 years in the medical sector before moving fully into software. That background shows up in how I build: state management and motion design treated as systems to model precisely, not just wire together.
+
+<br/>
+
+<div align="center">
+
+### Portfolio & Resume Engine
+*High-performance interface — Vite, React 19, Tailwind v4*
+
+A resume site with a custom generation engine: state-driven content, Formspree-backed lead capture, built for both human visitors and ATS parsing.
+
+<br/>
+
+### Orbit — 3D Repository Visualizer
+*Three.js solar system where each planet is a live GitHub repository*
+
+Real-time GitHub sync, physically-modeled orbital motion, and a full admin dashboard for managing the visualized data.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,ts,nodejs,mongodb,tailwind,threejs,cpp,redux" />
+
+</div>
+
+<br/>
+
+**Currently building:** modular React 19 + Tailwind v4 interfaces with an emphasis on motion that's driven by real physics/math models (GSAP, Framer Motion, Three.js) rather than canned easing presets.
+
+<!--
+Optional next step: add a live GitHub stats card, e.g.
+https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark
+Just needs your actual GitHub username — didn't want to guess and ship a broken image.
+-->
