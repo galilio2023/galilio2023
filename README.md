@@ -40,8 +40,8 @@
 
 ### 📈 REPOSITORY TELEMETRY
 
-<img src="https://github-stats-extended.vercel.app/api?username=galilio2023&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=galilio2023&layout=compact&hide_border=true&bg_color=1C3A33&text_color=E8DCC4" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=galilio2023&show_icons=true&hide_border=true&bg_color=1C3A33&title_color=C9A227&icon_color=C9A227&text_color=E8DCC4&v=20261017" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=galilio2023&layout=compact&hide_border=true&bg_color=1C3A33&text_color=E8DCC4&v=20261017" width="49%" />
 
 <br/><br/>
 
